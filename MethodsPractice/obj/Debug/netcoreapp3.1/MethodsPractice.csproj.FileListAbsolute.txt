@@ -1,0 +1,13 @@
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.exe
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.deps.json
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.dll
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.pdb
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.dll
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.pdb
+C:\Users\jeffr\Desktop\repos\MethodsPractice\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.genruntimeconfig.cache
